@@ -1,0 +1,1 @@
+A fast best effort replicated session store implementing gorilla sessions.Store Interface built on github.com/msonawane/grkv
